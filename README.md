@@ -4,9 +4,9 @@ Suru++ Dark
 A dark varient of the Ubuntu Suru icon theme for KDE desktops with dark Plasma themes.
 
 INSTALL:
-
+```
 sudo wget -c https://github.com/jnbutcher/suru-icons-dark-for-kde/raw/master/Suru++_Dark.tar.gz -O - | sudo tar -xz -C /usr/share/icons/
-
+```
 
 This icon theme is a modified and enhanced dark version of the Suru++ Ubuntu icon theme.
 
